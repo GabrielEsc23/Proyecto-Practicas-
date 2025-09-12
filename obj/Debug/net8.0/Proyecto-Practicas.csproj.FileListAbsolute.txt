@@ -12,3 +12,4 @@ C:\Users\edison.escobar01\Proyecto-Practicas\obj\Debug\net8.0\refint\Proyecto-Pr
 C:\Users\edison.escobar01\Proyecto-Practicas\obj\Debug\net8.0\Proyecto-Practicas.pdb
 C:\Users\edison.escobar01\Proyecto-Practicas\obj\Debug\net8.0\Proyecto-Practicas.genruntimeconfig.cache
 C:\Users\edison.escobar01\Proyecto-Practicas\obj\Debug\net8.0\ref\Proyecto-Practicas.dll
+C:\Users\edison.escobar01\Proyecto-Practicas\obj\Debug\net8.0\Proyecto-Practicas.sourcelink.json
