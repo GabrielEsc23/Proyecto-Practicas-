@@ -7,7 +7,9 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("Hola Mundo");
-        Console.WriteLine("Nicolás Chiguano");
+        Console.WriteLine("Ingrese su nombre: ");
+        string nombre = Console.ReadLine();
+        Console.WriteLine($"Hola, {nombre}!");
     }
 }
 
