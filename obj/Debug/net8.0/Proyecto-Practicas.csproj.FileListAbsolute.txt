@@ -1,17 +1,3 @@
-C:\Users\edison.escobar01\Proyecto-Practicas\bin\Debug\net8.0\Proyecto-Practicas.exe
-C:\Users\edison.escobar01\Proyecto-Practicas\bin\Debug\net8.0\Proyecto-Practicas.deps.json
-C:\Users\edison.escobar01\Proyecto-Practicas\bin\Debug\net8.0\Proyecto-Practicas.runtimeconfig.json
-C:\Users\edison.escobar01\Proyecto-Practicas\bin\Debug\net8.0\Proyecto-Practicas.dll
-C:\Users\edison.escobar01\Proyecto-Practicas\bin\Debug\net8.0\Proyecto-Practicas.pdb
-C:\Users\edison.escobar01\Proyecto-Practicas\obj\Debug\net8.0\Proyecto-Practicas.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\edison.escobar01\Proyecto-Practicas\obj\Debug\net8.0\Proyecto-Practicas.AssemblyInfoInputs.cache
-C:\Users\edison.escobar01\Proyecto-Practicas\obj\Debug\net8.0\Proyecto-Practicas.AssemblyInfo.cs
-C:\Users\edison.escobar01\Proyecto-Practicas\obj\Debug\net8.0\Proyecto-Practicas.csproj.CoreCompileInputs.cache
-C:\Users\edison.escobar01\Proyecto-Practicas\obj\Debug\net8.0\Proyecto-Practicas.dll
-C:\Users\edison.escobar01\Proyecto-Practicas\obj\Debug\net8.0\refint\Proyecto-Practicas.dll
-C:\Users\edison.escobar01\Proyecto-Practicas\obj\Debug\net8.0\Proyecto-Practicas.pdb
-C:\Users\edison.escobar01\Proyecto-Practicas\obj\Debug\net8.0\Proyecto-Practicas.genruntimeconfig.cache
-C:\Users\edison.escobar01\Proyecto-Practicas\obj\Debug\net8.0\ref\Proyecto-Practicas.dll
 C:\Users\nicolas.chiguano\Downloads\Proyecto-Practicas-\bin\Debug\net8.0\Proyecto-Practicas.exe
 C:\Users\nicolas.chiguano\Downloads\Proyecto-Practicas-\bin\Debug\net8.0\Proyecto-Practicas.deps.json
 C:\Users\nicolas.chiguano\Downloads\Proyecto-Practicas-\bin\Debug\net8.0\Proyecto-Practicas.runtimeconfig.json
