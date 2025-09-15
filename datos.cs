@@ -26,7 +26,7 @@ public class datos
                     opcion1.Ejecutar();
                     return;
                 case 2:
-                    Console.WriteLine("Opción 2 seleccionada.");
+                    opcion2.Ejecutar();
                     return;
                 case 0:
                     Console.WriteLine("Saliendo del menú...");
