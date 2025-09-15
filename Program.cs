@@ -1,11 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-using System;
+﻿using System;
 
 class Program
 {
     static void Main(string[] args)
     {
+<<<<<<< HEAD
         LoginManager loginManager = new LoginManager();
         Console.WriteLine("Bienvenido al sistema de Login");
 
@@ -24,6 +23,8 @@ class Program
             Console.WriteLine("Error: Credenciales incorrectas");
         }
 
+=======
+        Login.Ejecutar();
+>>>>>>> 08bf4c1c28524e4f7dbe86b15392adb14e67cfd3
     }
 }
-
