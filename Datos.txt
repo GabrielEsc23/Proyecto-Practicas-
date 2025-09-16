@@ -1,3 +1,3 @@
-Nombre: af
-Apellido:ag
-Edad: 23
+Item  |Nombre    |Apellido     |Edad     
+1        Nicolas    Chiguano    23     
+2        Edison    Escobar    20     
