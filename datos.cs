@@ -30,7 +30,7 @@ public class datos
                     return;
                 case 0:
                     Console.WriteLine("Saliendo del menú...");
-                    return; // Finaliza el método Mostrar()
+                    return;
                 default:
                     Console.WriteLine("Opción no válida.");
                     break;

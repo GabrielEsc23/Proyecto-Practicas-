@@ -1,4 +1,5 @@
 using System;
+using Microsoft.Win32.SafeHandles;
 
 public class opcion1
 {

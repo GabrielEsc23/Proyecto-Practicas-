@@ -37,7 +37,7 @@ public class opcion2
                 double resultado = num1 + num2;
                 Console.WriteLine($"Resultado de la suma: {resultado}");
             }
-            else if (seleccion == 2) 
+            else if (seleccion == 2)
             {
                 Console.Write("Ingrese el primer número: ");
                 if (!double.TryParse(Console.ReadLine(), out double num1))
@@ -56,7 +56,7 @@ public class opcion2
                 double resultado = num1 - num2;
                 Console.WriteLine($"Resultado de la resta: {resultado}");
             }
-            else if (seleccion == 3) 
+            else if (seleccion == 3)
             {
                 Console.Write("Ingrese el primer número: ");
                 if (!double.TryParse(Console.ReadLine(), out double num1))
@@ -75,7 +75,7 @@ public class opcion2
                 double resultado = num1 * num2;
                 Console.WriteLine($"Resultado de la multiplicación: {resultado}");
             }
-            else if (seleccion == 4) 
+            else if (seleccion == 4)
             {
                 Console.Write("Ingrese el primer número: ");
                 if (!double.TryParse(Console.ReadLine(), out double num1))
@@ -99,5 +99,6 @@ public class opcion2
         {
             Console.WriteLine("Opción inválida.");
         }
+        
     }
-}
+} 
