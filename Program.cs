@@ -25,7 +25,9 @@ class Program
 
         // Login.Ejecutar();
         //ejercicios.Ejecutar();
-        archivos.Ejecutar();
+        //archivos.Ejecutar();
+        //vocal.Ejecutar();
+        crud.Ejecutar();
 
     }
 }

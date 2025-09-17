@@ -1,3 +1,8 @@
-Item  |Nombre    |Apellido     |Edad     
-1        Nicolas    Chiguano    23     
-2        Edison    Escobar    20     
+Item  |Estudiante        |Materia       |Calificacion      |Estado        
+1      Nicolas            matematicas              16          Reprobado
+2      Gabriel             Matematicas              12          Reprobado
+3      Edison            15              15          Aprobado
+
+Promedio General: 14.333333333333334
+Calificacion mas alta: 16
+Calificacion mas baja: 12
