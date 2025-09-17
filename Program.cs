@@ -23,10 +23,11 @@ class Program
              Console.WriteLine("Error: Credenciales incorrectas");
          }*/
 
-        // Login.Ejecutar();
+        Login.Ejecutar();
         //ejercicios.Ejecutar();
         //archivos.Ejecutar();
         //vocal.Ejecutar();
+
         crud.Ejecutar();
 
     }

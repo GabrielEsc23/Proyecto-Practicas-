@@ -17,7 +17,9 @@ public class Login
 
             if (usuario == user && contrasenia == password)
             {
-                datos.Mostrar();
+                /*datos.Mostrar();
+                break;*/
+                Console.WriteLine("-----Ingreso exitoso-----");
                 break;
             }
             else

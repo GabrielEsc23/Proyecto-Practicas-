@@ -7,7 +7,7 @@ public class crud
     public static void Ejecutar()
     {
         List<Jugador> jugadores = new List<Jugador>();
-        //int opcion = 0;
+        
         while (true)
         {
             Console.WriteLine("----Bienvenidos al Sistema de jugadores-----");
